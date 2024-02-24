@@ -1,4 +1,5 @@
 # Machine-Learning-Training
+Basic Machine Learning Algorithm  -
 1. **Linear Regression**:
    - Linear regression is a simple and widely used algorithm for predicting a continuous value based on one or more input features.
    - It fits a straight line to the data points, minimizing the difference between the predicted and actual values.
